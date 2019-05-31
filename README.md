@@ -1,9 +1,8 @@
 # spacedeckbuilder
 
 ## Creature Cards
-ships
-* sentry
-* 
+* ships
+* bases
 
 ## Factions
 * space pirates - thief mechanics?
@@ -12,7 +11,13 @@ ships
 * titans - alien-beast-like
 
 ## Spells / instant ?
-* cosmic?
+* cosmic
+
+## Fields / Aura cast on ships / 
+* force field - damage reduction
+* power field - increased attack
+* stasis field - can't move / attack
+* amp field - increased damage taken
 
 
 ## Cards
@@ -32,3 +37,18 @@ ships
 * defense: 1
 * attack: 2
 * special: none
+
+### Destroyer
+* faction: terrain
+* type: creature/basic
+* mana/power: 3
+* defense: 2
+* attack: 3
+
+### Carrier
+* faction: terrain
+* type: creature/basic
+* mana/power: 4
+* defense: 4
+* attack: 1
+* special: tap to generate 1 (1/1) fighter
